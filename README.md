@@ -7,3 +7,6 @@
 2. Restart Xcode.
 3. Apply theme.
 
+# meslo-font
+Meslo LG is a customized version of Apple’s Menlo-Regular font(which is a customized Bitstream Vera Sans Mono).
+[meslo-font](https://github.com/andreberg/Meslo-Font)
