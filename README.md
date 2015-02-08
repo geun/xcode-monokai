@@ -1,7 +1,5 @@
 # Xcode Monokai Geun's Edition
-xcode monokai theme
-
-![screenshot 2015-02-08 12 26 41](https://cloud.githubusercontent.com/assets/1306061/6095084/4579f856-af8e-11e4-963e-ab788606e731.png)
+![geun_monokai](https://cloud.githubusercontent.com/assets/1306061/6095099/e79390ca-af8e-11e4-97c7-407ffc4ff072.png)
 
 
 # Installation
